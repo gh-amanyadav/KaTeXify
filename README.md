@@ -2,3 +2,6 @@
 
 Browser plugin to add LaTeX mathematic equation support to GitHub, based on KaTex.
 
+## If you have any problem message me on github
+
+************************************************************************THANK YOU***********************************************************************************************
